@@ -46,7 +46,6 @@ function DetailsMovie() {
     imdb_id,
   } = dataFetchDetail;
 
-  console.log(dataFetchDetail, `data detail`);
   return (
     <div>
       {genres && <Button textArea={`back to list`} to={pathLc} />}

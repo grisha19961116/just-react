@@ -25,7 +25,11 @@
   border-radius: 3px;
   overflow: hidden;
 }
-
+.Searchbar__lable{
+  width: 25%;
+  color: rgb(31, 29, 29);
+  font-size: 20px;
+}
 .SearchForm__button {
   display: inline-block;
   width: 148px;
