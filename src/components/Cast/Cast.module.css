@@ -1,0 +1,32 @@
+.cast__list {
+  list-style: none;
+  display: block;
+  width: 100%;
+}
+.cast__li {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.cast__img {
+  display: inline-block;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 5%;
+}
+.cast__h2 {
+  display: block;
+  width: 100%;
+  font-size: 30px;
+  color: rgb(124, 34, 124);
+  padding-left: 120px;
+  text-align: start;
+}
+.cast__3 {
+  display: block;
+  width: 100%;
+  font-size: 40px;
+  color: rgb(78, 16, 78);
+  padding-left: 120px;
+  text-align: start;
+}
